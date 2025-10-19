@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowSill.UnitConverter.Tests (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowSill.UnitConverter.Tests (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

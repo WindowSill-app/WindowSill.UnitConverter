@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="WindowSill.UnitConverter.Tests/WindowSill.UnitConverter.Tests.csproj" Id="a5f19d9c-170b-4f3c-8177-a1a7412aedbb">
+    <Platform Project="x64" />
+    <Deploy />
+  </Project>
+  <Project Path="WindowSill.UnitConverter/WindowSill.UnitConverter.csproj">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
