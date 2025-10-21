@@ -241,7 +241,7 @@
     <value>US Tablespoons</value>
   </data>
     <data name="UsOunces" xml:space="preserve">
-    <value>US Ounces</value>
+    <value>美国盎司</value>
   </data>
     <data name="UsCups" xml:space="preserve">
     <value>US Cups</value>
@@ -265,13 +265,13 @@
     <value>Cubic Feet</value>
   </data>
     <data name="CubicMeters" xml:space="preserve">
-    <value>Cubic Meters</value>
+    <value>立方米</value>
   </data>
     <data name="Milligrams" xml:space="preserve">
     <value>Milligrams</value>
   </data>
     <data name="Grams" xml:space="preserve">
-    <value>Grams</value>
+    <value>克</value>
   </data>
     <data name="Kilograms" xml:space="preserve">
     <value>Kilograms</value>
@@ -286,7 +286,7 @@
     <value>Pounds</value>
   </data>
     <data name="ShortTons" xml:space="preserve">
-    <value>Short Tons</value>
+    <value/>
   </data>
     <data name="Degrees" xml:space="preserve">
     <value>Degrees</value>
