@@ -241,7 +241,7 @@
     <value>US Tablespoons</value>
   </data>
     <data name="UsOunces" xml:space="preserve">
-    <value>US Ounces</value>
+    <value/>
   </data>
     <data name="UsCups" xml:space="preserve">
     <value>US Cups</value>
