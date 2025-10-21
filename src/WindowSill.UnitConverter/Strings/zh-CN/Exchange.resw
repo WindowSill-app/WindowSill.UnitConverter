@@ -148,6 +148,6 @@
     <value>Ok</value>
   </data>
   <data name="Search.PlaceholderTextProperty" xml:space="preserve">
-    <value>Search currencies...</value>
+    <value>搜索货币……</value>
   </data>
 </root>
