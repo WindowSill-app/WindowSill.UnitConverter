@@ -118,189 +118,189 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="DisplayName" xml:space="preserve">
-    <value>Dimension Converter</value>
+    <value>次元変換器</value>
   </data>
     <data name="Millimeters" xml:space="preserve">
-    <value>Millimeters</value>
+    <value>ミリメートル</value>
   </data>
     <data name="Centimeters" xml:space="preserve">
-    <value>Centimeters</value>
+    <value>センチメートル</value>
   </data>
     <data name="Meters" xml:space="preserve">
-    <value>Meters</value>
+    <value>メートル</value>
   </data>
     <data name="Kilometers" xml:space="preserve">
-    <value>Kilometers</value>
+    <value>キロメートル</value>
   </data>
     <data name="Inches" xml:space="preserve">
-    <value>Inches</value>
+    <value>インチ</value>
   </data>
     <data name="Feet" xml:space="preserve">
-    <value>Feet</value>
+    <value>フィート</value>
   </data>
     <data name="Yards" xml:space="preserve">
-    <value>Yards</value>
+    <value>ヤード</value>
   </data>
     <data name="Miles" xml:space="preserve">
-    <value>Miles</value>
+    <value>マイル</value>
   </data>
     <data name="Bits" xml:space="preserve">
-    <value>Bits</value>
+    <value>ビット</value>
   </data>
     <data name="Bytes" xml:space="preserve">
-    <value>Bytes</value>
+    <value>バイト</value>
   </data>
     <data name="Kilobytes" xml:space="preserve">
-    <value>Kilobytes</value>
+    <value>キロバイト</value>
   </data>
     <data name="Megabytes" xml:space="preserve">
-    <value>Megabytes</value>
+    <value>メガバイト</value>
   </data>
     <data name="Gigabytes" xml:space="preserve">
-    <value>Gigabytes</value>
+    <value>ギガバイト</value>
   </data>
     <data name="Terabytes" xml:space="preserve">
-    <value>Terabytes</value>
+    <value>テラバイト</value>
   </data>
     <data name="Petabytes" xml:space="preserve">
-    <value>Petabytes</value>
+    <value>ペタバイト</value>
   </data>
     <data name="Exabytes" xml:space="preserve">
-    <value>Exabytes</value>
+    <value>エクサバイト</value>
   </data>
     <data name="SquareMillimeters" xml:space="preserve">
-    <value>Square Millimeters</value>
+    <value>平方ミリメートル</value>
   </data>
     <data name="SquareCentimeters" xml:space="preserve">
-    <value>Square Centimeters</value>
+    <value>平方センチメートル</value>
   </data>
     <data name="SquareMeters" xml:space="preserve">
-    <value>Square Meters</value>
+    <value>平方メートル</value>
   </data>
     <data name="Hectares" xml:space="preserve">
-    <value>Hectares</value>
+    <value>ヘクタール</value>
   </data>
     <data name="SquareKilometers" xml:space="preserve">
-    <value>Square Kilometers</value>
+    <value>平方キロメートル</value>
   </data>
     <data name="SquareInches" xml:space="preserve">
-    <value>Square Inches</value>
+    <value>平方インチ</value>
   </data>
     <data name="SquareFeet" xml:space="preserve">
-    <value>Square Feet</value>
+    <value>平方フィート</value>
   </data>
     <data name="SquareYards" xml:space="preserve">
-    <value>Square Yards</value>
+    <value>平方ヤード</value>
   </data>
     <data name="Acres" xml:space="preserve">
-    <value>Acres</value>
+    <value>エーカー</value>
   </data>
     <data name="SquareMiles" xml:space="preserve">
-    <value>Square Miles</value>
+    <value>平方マイル</value>
   </data>
     <data name="MetersPerSecond" xml:space="preserve">
-    <value>Meters per Second</value>
+    <value>秒速メートル</value>
   </data>
     <data name="KilometersPerHour" xml:space="preserve">
-    <value>Kilometers per Hour</value>
+    <value>時速キロメートル</value>
   </data>
     <data name="FeetPerSecond" xml:space="preserve">
-    <value>Feet per Second</value>
+    <value>秒速フィート</value>
   </data>
     <data name="MilesPerHour" xml:space="preserve">
-    <value>Miles per Hour</value>
+    <value>マイル毎時</value>
   </data>
     <data name="Knots" xml:space="preserve">
-    <value>Knots</value>
+    <value>ノット</value>
   </data>
     <data name="Mach" xml:space="preserve">
-    <value>Mach</value>
+    <value>マッハ</value>
   </data>
     <data name="Milliliters" xml:space="preserve">
-    <value>Milliliters</value>
+    <value>ミリリットル</value>
   </data>
     <data name="Centiliters" xml:space="preserve">
-    <value>Centiliters</value>
+    <value>センチリットル</value>
   </data>
     <data name="Deciliters" xml:space="preserve">
-    <value>Deciliters</value>
+    <value>デシリットル</value>
   </data>
     <data name="Liters" xml:space="preserve">
-    <value>Liters</value>
+    <value>リットル</value>
   </data>
     <data name="Hectoliters" xml:space="preserve">
-    <value>Hectoliters</value>
+    <value>ヘクトリットル</value>
   </data>
     <data name="MetricCups" xml:space="preserve">
-    <value>Metric Cups</value>
+    <value>メートル法カップ</value>
   </data>
     <data name="UsTeaspoons" xml:space="preserve">
-    <value>US Teaspoons</value>
+    <value>米テイスプーン</value>
   </data>
     <data name="UsTablespoons" xml:space="preserve">
-    <value>US Tablespoons</value>
+    <value>米大さじ</value>
   </data>
     <data name="UsOunces" xml:space="preserve">
-    <value>US Ounces</value>
+    <value>米オンス</value>
   </data>
     <data name="UsCups" xml:space="preserve">
-    <value>US Cups</value>
+    <value>米カップ</value>
   </data>
     <data name="UsLegalCups" xml:space="preserve">
-    <value>US Legal Cups</value>
+    <value>米リーガルカップ</value>
   </data>
     <data name="UsPints" xml:space="preserve">
-    <value>US Pints</value>
+    <value>米パイント</value>
   </data>
     <data name="UsQuarts" xml:space="preserve">
-    <value>US Quarts</value>
+    <value>米クォート</value>
   </data>
     <data name="UsGallons" xml:space="preserve">
-    <value>US Gallons</value>
+    <value>米ガロン</value>
   </data>
     <data name="CubicInches" xml:space="preserve">
-    <value>Cubic Inches</value>
+    <value>立方インチ</value>
   </data>
     <data name="CubicFeet" xml:space="preserve">
-    <value>Cubic Feet</value>
+    <value>立方フィート</value>
   </data>
     <data name="CubicMeters" xml:space="preserve">
-    <value>Cubic Meters</value>
+    <value>立方メートル</value>
   </data>
     <data name="Milligrams" xml:space="preserve">
-    <value>Milligrams</value>
+    <value>ミリグラム</value>
   </data>
     <data name="Grams" xml:space="preserve">
-    <value>Grams</value>
+    <value>グラム</value>
   </data>
     <data name="Kilograms" xml:space="preserve">
-    <value>Kilograms</value>
+    <value>キログラム</value>
   </data>
     <data name="Tonnes" xml:space="preserve">
-    <value>Tonnes</value>
+    <value>トン</value>
   </data>
     <data name="Ounces" xml:space="preserve">
-    <value>Ounces</value>
+    <value>オンス</value>
   </data>
     <data name="Pounds" xml:space="preserve">
-    <value>Pounds</value>
+    <value>ポンド</value>
   </data>
     <data name="ShortTons" xml:space="preserve">
-    <value>Short Tons</value>
+    <value>ショートトン</value>
   </data>
     <data name="Degrees" xml:space="preserve">
-    <value>Degrees</value>
+    <value>度</value>
   </data>
     <data name="Radians" xml:space="preserve">
-    <value>Radians</value>
+    <value>ラジアン</value>
   </data>
     <data name="Gradians" xml:space="preserve">
-    <value>Gradians</value>
+    <value>グラジアン</value>
   </data>
     <data name="Arcminutes" xml:space="preserve">
-    <value>Arcminutes</value>
+    <value>アーク分</value>
   </data>
     <data name="Arcseconds" xml:space="preserve">
-    <value>Arcseconds</value>
+    <value>アーク秒</value>
   </data>
 </root>
