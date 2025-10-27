@@ -118,36 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Add.LabelProperty" xml:space="preserve">
-    <value>Add</value>
+    <value>追加</value>
   </data>
   <data name="AddFavoriteTitle" xml:space="preserve">
-    <value>Add a favorite currency</value>
+    <value>お気に入りの通貨を追加</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>キャンセル</value>
   </data>
   <data name="Delete.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Delete</value>
+    <value>削除</value>
   </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Currency Converter</value>
+    <value>通貨コンバーター</value>
   </data>
   <data name="FavoriteInto.TextProperty" xml:space="preserve">
-    <value>Favorites currencies</value>
+    <value>お気に入りの通貨</value>
   </data>
   <data name="Loading.TextProperty" xml:space="preserve">
-    <value>Loading exchange rates...</value>
+    <value>為替レートを読み込み中...</value>
   </data>
   <data name="MoveDown.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Move down</value>
+    <value>下に移動</value>
   </data>
   <data name="MoveUp.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Move up</value>
+    <value>上に移動</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>OK</value>
   </data>
   <data name="Search.PlaceholderTextProperty" xml:space="preserve">
-    <value>Search currencies...</value>
+    <value>通貨を検索...</value>
   </data>
 </root>
