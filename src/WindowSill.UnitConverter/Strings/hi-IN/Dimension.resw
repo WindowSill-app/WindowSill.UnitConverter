@@ -118,189 +118,189 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="DisplayName" xml:space="preserve">
-    <value>Dimension Converter</value>
+    <value>आकार कनवर्टर</value>
   </data>
     <data name="Millimeters" xml:space="preserve">
-    <value>Millimeters</value>
+    <value>मिलीमीटर</value>
   </data>
     <data name="Centimeters" xml:space="preserve">
-    <value>Centimeters</value>
+    <value>सेंटीमीटर</value>
   </data>
     <data name="Meters" xml:space="preserve">
-    <value>Meters</value>
+    <value>मीटर</value>
   </data>
     <data name="Kilometers" xml:space="preserve">
-    <value>Kilometers</value>
+    <value>किलोमीटर</value>
   </data>
     <data name="Inches" xml:space="preserve">
-    <value>Inches</value>
+    <value>इंच</value>
   </data>
     <data name="Feet" xml:space="preserve">
-    <value>Feet</value>
+    <value>फुट</value>
   </data>
     <data name="Yards" xml:space="preserve">
-    <value>Yards</value>
+    <value>यार्ड</value>
   </data>
     <data name="Miles" xml:space="preserve">
-    <value>Miles</value>
+    <value>मील</value>
   </data>
     <data name="Bits" xml:space="preserve">
-    <value>Bits</value>
+    <value>बिट्स</value>
   </data>
     <data name="Bytes" xml:space="preserve">
-    <value>Bytes</value>
+    <value>बाइट्स</value>
   </data>
     <data name="Kilobytes" xml:space="preserve">
-    <value>Kilobytes</value>
+    <value>किलोबाइट्स</value>
   </data>
     <data name="Megabytes" xml:space="preserve">
-    <value>Megabytes</value>
+    <value>मेगाबाइट्स</value>
   </data>
     <data name="Gigabytes" xml:space="preserve">
-    <value>Gigabytes</value>
+    <value>गिगाबाइट्स</value>
   </data>
     <data name="Terabytes" xml:space="preserve">
-    <value>Terabytes</value>
+    <value>टेराबाइट्स</value>
   </data>
     <data name="Petabytes" xml:space="preserve">
-    <value>Petabytes</value>
+    <value>पेटाबाइट्स</value>
   </data>
     <data name="Exabytes" xml:space="preserve">
-    <value>Exabytes</value>
+    <value>एक्साबाइट्स</value>
   </data>
     <data name="SquareMillimeters" xml:space="preserve">
-    <value>Square Millimeters</value>
+    <value>वर्ग मिलिमीटर</value>
   </data>
     <data name="SquareCentimeters" xml:space="preserve">
-    <value>Square Centimeters</value>
+    <value>वर्ग सेंटीमीटर</value>
   </data>
     <data name="SquareMeters" xml:space="preserve">
-    <value>Square Meters</value>
+    <value>वर्ग मीटर</value>
   </data>
     <data name="Hectares" xml:space="preserve">
-    <value>Hectares</value>
+    <value>हेक्टेयर</value>
   </data>
     <data name="SquareKilometers" xml:space="preserve">
-    <value>Square Kilometers</value>
+    <value>वर्ग किलोमीटर</value>
   </data>
     <data name="SquareInches" xml:space="preserve">
-    <value>Square Inches</value>
+    <value>वर्ग इंच</value>
   </data>
     <data name="SquareFeet" xml:space="preserve">
-    <value>Square Feet</value>
+    <value>वर्ग फुट</value>
   </data>
     <data name="SquareYards" xml:space="preserve">
-    <value>Square Yards</value>
+    <value>वर्ग यार्ड</value>
   </data>
     <data name="Acres" xml:space="preserve">
-    <value>Acres</value>
+    <value>एकड़</value>
   </data>
     <data name="SquareMiles" xml:space="preserve">
-    <value>Square Miles</value>
+    <value>वर्ग मील</value>
   </data>
     <data name="MetersPerSecond" xml:space="preserve">
-    <value>Meters per Second</value>
+    <value>मीटर प्रति सेकंड</value>
   </data>
     <data name="KilometersPerHour" xml:space="preserve">
-    <value>Kilometers per Hour</value>
+    <value>किलोमीटर प्रति घंटा</value>
   </data>
     <data name="FeetPerSecond" xml:space="preserve">
-    <value>Feet per Second</value>
+    <value>फुट प्रति सेकंड</value>
   </data>
     <data name="MilesPerHour" xml:space="preserve">
-    <value>Miles per Hour</value>
+    <value>मील प्रति घंटा</value>
   </data>
     <data name="Knots" xml:space="preserve">
-    <value>Knots</value>
+    <value>नॉट्स</value>
   </data>
     <data name="Mach" xml:space="preserve">
-    <value>Mach</value>
+    <value>मैख़</value>
   </data>
     <data name="Milliliters" xml:space="preserve">
-    <value>Milliliters</value>
+    <value>मिलिलीटर</value>
   </data>
     <data name="Centiliters" xml:space="preserve">
-    <value>Centiliters</value>
+    <value>सेंटिलीटर</value>
   </data>
     <data name="Deciliters" xml:space="preserve">
-    <value>Deciliters</value>
+    <value>डेसीलीटर</value>
   </data>
     <data name="Liters" xml:space="preserve">
-    <value>Liters</value>
+    <value>लीटर</value>
   </data>
     <data name="Hectoliters" xml:space="preserve">
-    <value>Hectoliters</value>
+    <value>हेक्टोलिटर</value>
   </data>
     <data name="MetricCups" xml:space="preserve">
-    <value>Metric Cups</value>
+    <value>मेट्रिक कप</value>
   </data>
     <data name="UsTeaspoons" xml:space="preserve">
-    <value>US Teaspoons</value>
+    <value>अमेरिकन टीस्पून</value>
   </data>
     <data name="UsTablespoons" xml:space="preserve">
-    <value>US Tablespoons</value>
+    <value>अमेरिकन टेबलस्पून</value>
   </data>
     <data name="UsOunces" xml:space="preserve">
-    <value>US Ounces</value>
+    <value>अमेरिकन औंस</value>
   </data>
     <data name="UsCups" xml:space="preserve">
-    <value>US Cups</value>
+    <value>अमेरिकन कप</value>
   </data>
     <data name="UsLegalCups" xml:space="preserve">
-    <value>US Legal Cups</value>
+    <value>अमेरिकन लीगल कप</value>
   </data>
     <data name="UsPints" xml:space="preserve">
-    <value>US Pints</value>
+    <value>अमेरिकन पिंट</value>
   </data>
     <data name="UsQuarts" xml:space="preserve">
-    <value>US Quarts</value>
+    <value>अमेरिकन क्वार्ट</value>
   </data>
     <data name="UsGallons" xml:space="preserve">
-    <value>US Gallons</value>
+    <value>अमेरिकन गैलन</value>
   </data>
     <data name="CubicInches" xml:space="preserve">
-    <value>Cubic Inches</value>
+    <value>घन इंच</value>
   </data>
     <data name="CubicFeet" xml:space="preserve">
-    <value>Cubic Feet</value>
+    <value>घन फुट</value>
   </data>
     <data name="CubicMeters" xml:space="preserve">
-    <value>Cubic Meters</value>
+    <value>घन मीटर</value>
   </data>
     <data name="Milligrams" xml:space="preserve">
-    <value>Milligrams</value>
+    <value>मिलिलोग्राम</value>
   </data>
     <data name="Grams" xml:space="preserve">
-    <value>Grams</value>
+    <value>ग्राम</value>
   </data>
     <data name="Kilograms" xml:space="preserve">
-    <value>Kilograms</value>
+    <value>किलोग्राम</value>
   </data>
     <data name="Tonnes" xml:space="preserve">
-    <value>Tonnes</value>
+    <value>टन</value>
   </data>
     <data name="Ounces" xml:space="preserve">
-    <value>Ounces</value>
+    <value>औंस</value>
   </data>
     <data name="Pounds" xml:space="preserve">
-    <value>Pounds</value>
+    <value>पाउंड</value>
   </data>
     <data name="ShortTons" xml:space="preserve">
-    <value>Short Tons</value>
+    <value>छोटी टनें</value>
   </data>
     <data name="Degrees" xml:space="preserve">
-    <value>Degrees</value>
+    <value>डिग्री</value>
   </data>
     <data name="Radians" xml:space="preserve">
-    <value>Radians</value>
+    <value>रेडियन</value>
   </data>
     <data name="Gradians" xml:space="preserve">
-    <value>Gradians</value>
+    <value>ग्रेडियन</value>
   </data>
     <data name="Arcminutes" xml:space="preserve">
-    <value>Arcminutes</value>
+    <value>आर्क मिनट</value>
   </data>
     <data name="Arcseconds" xml:space="preserve">
-    <value>Arcseconds</value>
+    <value>आर्क सेकंड</value>
   </data>
 </root>
