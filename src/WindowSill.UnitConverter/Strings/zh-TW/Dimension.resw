@@ -118,189 +118,189 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="DisplayName" xml:space="preserve">
-    <value>Dimension Converter</value>
+    <value>尺寸轉換器</value>
   </data>
     <data name="Millimeters" xml:space="preserve">
-    <value>Millimeters</value>
+    <value>毫米</value>
   </data>
     <data name="Centimeters" xml:space="preserve">
-    <value>Centimeters</value>
+    <value>釐米</value>
   </data>
     <data name="Meters" xml:space="preserve">
-    <value>Meters</value>
+    <value>公尺</value>
   </data>
     <data name="Kilometers" xml:space="preserve">
-    <value>Kilometers</value>
+    <value>公里</value>
   </data>
     <data name="Inches" xml:space="preserve">
-    <value>Inches</value>
+    <value>英寸</value>
   </data>
     <data name="Feet" xml:space="preserve">
-    <value>Feet</value>
+    <value>英尺</value>
   </data>
     <data name="Yards" xml:space="preserve">
-    <value>Yards</value>
+    <value>碼</value>
   </data>
     <data name="Miles" xml:space="preserve">
-    <value>Miles</value>
+    <value>英里</value>
   </data>
     <data name="Bits" xml:space="preserve">
-    <value>Bits</value>
+    <value>位元</value>
   </data>
     <data name="Bytes" xml:space="preserve">
-    <value>Bytes</value>
+    <value>位元組</value>
   </data>
     <data name="Kilobytes" xml:space="preserve">
-    <value>Kilobytes</value>
+    <value>千位元組</value>
   </data>
     <data name="Megabytes" xml:space="preserve">
-    <value>Megabytes</value>
+    <value>兆位元組</value>
   </data>
     <data name="Gigabytes" xml:space="preserve">
-    <value>Gigabytes</value>
+    <value>吉位元組</value>
   </data>
     <data name="Terabytes" xml:space="preserve">
-    <value>Terabytes</value>
+    <value>太位元組</value>
   </data>
     <data name="Petabytes" xml:space="preserve">
-    <value>Petabytes</value>
+    <value>快位元組</value>
   </data>
     <data name="Exabytes" xml:space="preserve">
-    <value>Exabytes</value>
+    <value>艾位元組</value>
   </data>
     <data name="SquareMillimeters" xml:space="preserve">
-    <value>Square Millimeters</value>
+    <value>平方毫米</value>
   </data>
     <data name="SquareCentimeters" xml:space="preserve">
-    <value>Square Centimeters</value>
+    <value>平方釐米</value>
   </data>
     <data name="SquareMeters" xml:space="preserve">
-    <value>Square Meters</value>
+    <value>平方公尺</value>
   </data>
     <data name="Hectares" xml:space="preserve">
-    <value>Hectares</value>
+    <value>公頃</value>
   </data>
     <data name="SquareKilometers" xml:space="preserve">
-    <value>Square Kilometers</value>
+    <value>平方公里</value>
   </data>
     <data name="SquareInches" xml:space="preserve">
-    <value>Square Inches</value>
+    <value>平方英吋</value>
   </data>
     <data name="SquareFeet" xml:space="preserve">
-    <value>Square Feet</value>
+    <value>平方英尺</value>
   </data>
     <data name="SquareYards" xml:space="preserve">
-    <value>Square Yards</value>
+    <value>平方碼</value>
   </data>
     <data name="Acres" xml:space="preserve">
-    <value>Acres</value>
+    <value>英畝</value>
   </data>
     <data name="SquareMiles" xml:space="preserve">
-    <value>Square Miles</value>
+    <value>平方英里</value>
   </data>
     <data name="MetersPerSecond" xml:space="preserve">
-    <value>Meters per Second</value>
+    <value>公尺/秒</value>
   </data>
     <data name="KilometersPerHour" xml:space="preserve">
-    <value>Kilometers per Hour</value>
+    <value>公里/小時</value>
   </data>
     <data name="FeetPerSecond" xml:space="preserve">
-    <value>Feet per Second</value>
+    <value>英尺/秒</value>
   </data>
     <data name="MilesPerHour" xml:space="preserve">
-    <value>Miles per Hour</value>
+    <value>英里/小時</value>
   </data>
     <data name="Knots" xml:space="preserve">
-    <value>Knots</value>
+    <value>節</value>
   </data>
     <data name="Mach" xml:space="preserve">
-    <value>Mach</value>
+    <value>馬赫數</value>
   </data>
     <data name="Milliliters" xml:space="preserve">
-    <value>Milliliters</value>
+    <value>毫升</value>
   </data>
     <data name="Centiliters" xml:space="preserve">
-    <value>Centiliters</value>
+    <value>毫升（公分）</value>
   </data>
     <data name="Deciliters" xml:space="preserve">
-    <value>Deciliters</value>
+    <value>分升</value>
   </data>
     <data name="Liters" xml:space="preserve">
-    <value>Liters</value>
+    <value>公升</value>
   </data>
     <data name="Hectoliters" xml:space="preserve">
-    <value>Hectoliters</value>
+    <value>公石</value>
   </data>
     <data name="MetricCups" xml:space="preserve">
-    <value>Metric Cups</value>
+    <value>公制杯</value>
   </data>
     <data name="UsTeaspoons" xml:space="preserve">
-    <value>US Teaspoons</value>
+    <value>美制茶匙</value>
   </data>
     <data name="UsTablespoons" xml:space="preserve">
-    <value>US Tablespoons</value>
+    <value>美制湯匙</value>
   </data>
     <data name="UsOunces" xml:space="preserve">
     <value/>
   </data>
     <data name="UsCups" xml:space="preserve">
-    <value>US Cups</value>
+    <value>美制杯</value>
   </data>
     <data name="UsLegalCups" xml:space="preserve">
-    <value>US Legal Cups</value>
+    <value>美制法定杯</value>
   </data>
     <data name="UsPints" xml:space="preserve">
-    <value>US Pints</value>
+    <value>美制品脫</value>
   </data>
     <data name="UsQuarts" xml:space="preserve">
-    <value>US Quarts</value>
+    <value>美制夸脫</value>
   </data>
     <data name="UsGallons" xml:space="preserve">
-    <value>US Gallons</value>
+    <value>美国加仑</value>
   </data>
     <data name="CubicInches" xml:space="preserve">
-    <value>Cubic Inches</value>
+    <value>立方英寸</value>
   </data>
     <data name="CubicFeet" xml:space="preserve">
-    <value>Cubic Feet</value>
+    <value>立方英尺</value>
   </data>
     <data name="CubicMeters" xml:space="preserve">
-    <value>Cubic Meters</value>
+    <value>立方米</value>
   </data>
     <data name="Milligrams" xml:space="preserve">
-    <value>Milligrams</value>
+    <value>毫克</value>
   </data>
     <data name="Grams" xml:space="preserve">
-    <value>Grams</value>
+    <value>克</value>
   </data>
     <data name="Kilograms" xml:space="preserve">
-    <value>Kilograms</value>
+    <value>公斤</value>
   </data>
     <data name="Tonnes" xml:space="preserve">
-    <value>Tonnes</value>
+    <value>吨</value>
   </data>
     <data name="Ounces" xml:space="preserve">
-    <value>Ounces</value>
+    <value>盎司</value>
   </data>
     <data name="Pounds" xml:space="preserve">
-    <value>Pounds</value>
+    <value>磅</value>
   </data>
     <data name="ShortTons" xml:space="preserve">
-    <value>Short Tons</value>
+    <value>短噸</value>
   </data>
     <data name="Degrees" xml:space="preserve">
-    <value>Degrees</value>
+    <value>度數</value>
   </data>
     <data name="Radians" xml:space="preserve">
-    <value>Radians</value>
+    <value>弧度</value>
   </data>
     <data name="Gradians" xml:space="preserve">
-    <value>Gradians</value>
+    <value>百分</value>
   </data>
     <data name="Arcminutes" xml:space="preserve">
-    <value>Arcminutes</value>
+    <value>弧分</value>
   </data>
     <data name="Arcseconds" xml:space="preserve">
-    <value>Arcseconds</value>
+    <value>弧秒</value>
   </data>
 </root>
