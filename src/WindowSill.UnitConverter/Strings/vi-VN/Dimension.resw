@@ -118,22 +118,22 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="DisplayName" xml:space="preserve">
-    <value>Dimension Converter</value>
+    <value>Chuyển đổi kích thước</value>
   </data>
     <data name="Millimeters" xml:space="preserve">
-    <value>Millimeters</value>
+    <value>Milimét</value>
   </data>
     <data name="Centimeters" xml:space="preserve">
-    <value>Centimeters</value>
+    <value>Centimet</value>
   </data>
     <data name="Meters" xml:space="preserve">
-    <value>Meters</value>
+    <value>Mét</value>
   </data>
     <data name="Kilometers" xml:space="preserve">
-    <value>Kilometers</value>
+    <value>Kilômét</value>
   </data>
     <data name="Inches" xml:space="preserve">
-    <value>Inches</value>
+    <value>Inch</value>
   </data>
     <data name="Feet" xml:space="preserve">
     <value>Feet</value>
@@ -169,49 +169,49 @@
     <value>Exabytes</value>
   </data>
     <data name="SquareMillimeters" xml:space="preserve">
-    <value>Square Millimeters</value>
+    <value>Quadrì Millimét</value>
   </data>
     <data name="SquareCentimeters" xml:space="preserve">
-    <value>Square Centimeters</value>
+    <value>Quadrì Centimét</value>
   </data>
     <data name="SquareMeters" xml:space="preserve">
-    <value>Square Meters</value>
+    <value>Quadrì Mét</value>
   </data>
     <data name="Hectares" xml:space="preserve">
-    <value>Hectares</value>
+    <value>Hecta,</value>
   </data>
     <data name="SquareKilometers" xml:space="preserve">
-    <value>Square Kilometers</value>
+    <value>Kilômét vuông</value>
   </data>
     <data name="SquareInches" xml:space="preserve">
-    <value>Square Inches</value>
+    <value>Inch vuông</value>
   </data>
     <data name="SquareFeet" xml:space="preserve">
-    <value>Square Feet</value>
+    <value>Feet vuông</value>
   </data>
     <data name="SquareYards" xml:space="preserve">
-    <value>Square Yards</value>
+    <value>Yards vuông</value>
   </data>
     <data name="Acres" xml:space="preserve">
-    <value>Acres</value>
+    <value>Acre</value>
   </data>
     <data name="SquareMiles" xml:space="preserve">
-    <value>Square Miles</value>
+    <value>Dặm vuông</value>
   </data>
     <data name="MetersPerSecond" xml:space="preserve">
-    <value>Meters per Second</value>
+    <value>Mét trên giây</value>
   </data>
     <data name="KilometersPerHour" xml:space="preserve">
-    <value>Kilometers per Hour</value>
+    <value>Kilômét trên giờ</value>
   </data>
     <data name="FeetPerSecond" xml:space="preserve">
-    <value>Feet per Second</value>
+    <value>Feet trên giây</value>
   </data>
     <data name="MilesPerHour" xml:space="preserve">
-    <value>Miles per Hour</value>
+    <value>Miles trên giờ</value>
   </data>
     <data name="Knots" xml:space="preserve">
-    <value>Knots</value>
+    <value>Hốts</value>
   </data>
     <data name="Mach" xml:space="preserve">
     <value>Mach</value>
@@ -226,76 +226,76 @@
     <value>Deciliters</value>
   </data>
     <data name="Liters" xml:space="preserve">
-    <value>Liters</value>
+    <value>Lít</value>
   </data>
     <data name="Hectoliters" xml:space="preserve">
     <value>Hectoliters</value>
   </data>
     <data name="MetricCups" xml:space="preserve">
-    <value>Metric Cups</value>
+    <value>Cốc mét</value>
   </data>
     <data name="UsTeaspoons" xml:space="preserve">
-    <value>US Teaspoons</value>
+    <value>Muỗng cà phê Mỹ</value>
   </data>
     <data name="UsTablespoons" xml:space="preserve">
-    <value>US Tablespoons</value>
+    <value>Muỗng canh Mỹ</value>
   </data>
     <data name="UsOunces" xml:space="preserve">
-    <value>US Ounces</value>
+    <value>Ounce Mỹ</value>
   </data>
     <data name="UsCups" xml:space="preserve">
-    <value>US Cups</value>
+    <value>Cốc Mỹ</value>
   </data>
     <data name="UsLegalCups" xml:space="preserve">
-    <value>US Legal Cups</value>
+    <value>Cốc hợp pháp Mỹ</value>
   </data>
     <data name="UsPints" xml:space="preserve">
-    <value>US Pints</value>
+    <value>Pint Mỹ</value>
   </data>
     <data name="UsQuarts" xml:space="preserve">
-    <value>US Quarts</value>
+    <value>Quart Mỹ</value>
   </data>
     <data name="UsGallons" xml:space="preserve">
-    <value>US Gallons</value>
+    <value>Gallon Mỹ</value>
   </data>
     <data name="CubicInches" xml:space="preserve">
-    <value>Cubic Inches</value>
+    <value>Inch khối</value>
   </data>
     <data name="CubicFeet" xml:space="preserve">
-    <value>Cubic Feet</value>
+    <value>Feet khối</value>
   </data>
     <data name="CubicMeters" xml:space="preserve">
-    <value>Cubic Meters</value>
+    <value>Mét khối</value>
   </data>
     <data name="Milligrams" xml:space="preserve">
-    <value>Milligrams</value>
+    <value>Milligram</value>
   </data>
     <data name="Grams" xml:space="preserve">
-    <value>Grams</value>
+    <value>Gram</value>
   </data>
     <data name="Kilograms" xml:space="preserve">
-    <value>Kilograms</value>
+    <value>Kilogram</value>
   </data>
     <data name="Tonnes" xml:space="preserve">
-    <value>Tonnes</value>
+    <value>Tấn</value>
   </data>
     <data name="Ounces" xml:space="preserve">
-    <value>Ounces</value>
+    <value>Ounce</value>
   </data>
     <data name="Pounds" xml:space="preserve">
-    <value>Pounds</value>
+    <value>Pound</value>
   </data>
     <data name="ShortTons" xml:space="preserve">
-    <value>Short Tons</value>
+    <value>Tấn ngắn</value>
   </data>
     <data name="Degrees" xml:space="preserve">
-    <value>Degrees</value>
+    <value>Độ</value>
   </data>
     <data name="Radians" xml:space="preserve">
-    <value>Radians</value>
+    <value>Radian</value>
   </data>
     <data name="Gradians" xml:space="preserve">
-    <value>Gradians</value>
+    <value>Gian</value>
   </data>
     <data name="Arcminutes" xml:space="preserve">
     <value>Arcminutes</value>
