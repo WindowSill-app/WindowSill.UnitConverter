@@ -118,31 +118,31 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="DisplayName" xml:space="preserve">
-    <value>Dimension Converter</value>
+    <value>Dimensionsumwandler</value>
   </data>
     <data name="Millimeters" xml:space="preserve">
-    <value>Millimeters</value>
+    <value>Millimeter</value>
   </data>
     <data name="Centimeters" xml:space="preserve">
-    <value>Centimeters</value>
+    <value>Zentimeter</value>
   </data>
     <data name="Meters" xml:space="preserve">
-    <value>Meters</value>
+    <value>Meter</value>
   </data>
     <data name="Kilometers" xml:space="preserve">
-    <value>Kilometers</value>
+    <value>Kilometer</value>
   </data>
     <data name="Inches" xml:space="preserve">
-    <value>Inches</value>
+    <value>Zoll</value>
   </data>
     <data name="Feet" xml:space="preserve">
-    <value>Feet</value>
+    <value>Fuß</value>
   </data>
     <data name="Yards" xml:space="preserve">
-    <value>Yards</value>
+    <value>Yard</value>
   </data>
     <data name="Miles" xml:space="preserve">
-    <value>Miles</value>
+    <value>Meile</value>
   </data>
     <data name="Bits" xml:space="preserve">
     <value>Bits</value>
@@ -151,156 +151,156 @@
     <value>Bytes</value>
   </data>
     <data name="Kilobytes" xml:space="preserve">
-    <value>Kilobytes</value>
+    <value>Kilobyte</value>
   </data>
     <data name="Megabytes" xml:space="preserve">
-    <value>Megabytes</value>
+    <value>Megabyte</value>
   </data>
     <data name="Gigabytes" xml:space="preserve">
-    <value>Gigabytes</value>
+    <value>Gigabyte</value>
   </data>
     <data name="Terabytes" xml:space="preserve">
-    <value>Terabytes</value>
+    <value>Terabyte</value>
   </data>
     <data name="Petabytes" xml:space="preserve">
-    <value>Petabytes</value>
+    <value>Petabyte</value>
   </data>
     <data name="Exabytes" xml:space="preserve">
-    <value>Exabytes</value>
+    <value>Exabyte</value>
   </data>
     <data name="SquareMillimeters" xml:space="preserve">
-    <value>Square Millimeters</value>
+    <value>Quadratmillimeter</value>
   </data>
     <data name="SquareCentimeters" xml:space="preserve">
-    <value>Square Centimeters</value>
+    <value>Quadratzentimeter</value>
   </data>
     <data name="SquareMeters" xml:space="preserve">
-    <value>Square Meters</value>
+    <value>Quadratmeter</value>
   </data>
     <data name="Hectares" xml:space="preserve">
-    <value>Hectares</value>
+    <value>Hektar</value>
   </data>
     <data name="SquareKilometers" xml:space="preserve">
-    <value>Square Kilometers</value>
+    <value>Quadratkilometer</value>
   </data>
     <data name="SquareInches" xml:space="preserve">
-    <value>Square Inches</value>
+    <value>Quadratinches</value>
   </data>
     <data name="SquareFeet" xml:space="preserve">
-    <value>Square Feet</value>
+    <value>Quadratfuß</value>
   </data>
     <data name="SquareYards" xml:space="preserve">
-    <value>Square Yards</value>
+    <value>Quadratyard</value>
   </data>
     <data name="Acres" xml:space="preserve">
-    <value>Acres</value>
+    <value>Acker</value>
   </data>
     <data name="SquareMiles" xml:space="preserve">
-    <value>Square Miles</value>
+    <value>Quadramile</value>
   </data>
     <data name="MetersPerSecond" xml:space="preserve">
-    <value>Meters per Second</value>
+    <value>Meter pro Sekunde</value>
   </data>
     <data name="KilometersPerHour" xml:space="preserve">
-    <value>Kilometers per Hour</value>
+    <value>Kilometer pro Stunde</value>
   </data>
     <data name="FeetPerSecond" xml:space="preserve">
-    <value>Feet per Second</value>
+    <value>Fuß pro Sekunde</value>
   </data>
     <data name="MilesPerHour" xml:space="preserve">
-    <value>Miles per Hour</value>
+    <value>Meile pro Stunde</value>
   </data>
     <data name="Knots" xml:space="preserve">
-    <value>Knots</value>
+    <value>Knoten</value>
   </data>
     <data name="Mach" xml:space="preserve">
     <value>Mach</value>
   </data>
     <data name="Milliliters" xml:space="preserve">
-    <value>Milliliters</value>
+    <value>Milliliter</value>
   </data>
     <data name="Centiliters" xml:space="preserve">
-    <value>Centiliters</value>
+    <value>Cl</value>
   </data>
     <data name="Deciliters" xml:space="preserve">
-    <value>Deciliters</value>
+    <value>Deziliter</value>
   </data>
     <data name="Liters" xml:space="preserve">
-    <value>Liters</value>
+    <value>Liter</value>
   </data>
     <data name="Hectoliters" xml:space="preserve">
-    <value>Hectoliters</value>
+    <value>Hektoliter</value>
   </data>
     <data name="MetricCups" xml:space="preserve">
-    <value>Metric Cups</value>
+    <value>Metric Cup</value>
   </data>
     <data name="UsTeaspoons" xml:space="preserve">
-    <value>US Teaspoons</value>
+    <value>Teelöffel (US)</value>
   </data>
     <data name="UsTablespoons" xml:space="preserve">
-    <value>US Tablespoons</value>
+    <value>Esslöffel (US)</value>
   </data>
     <data name="UsOunces" xml:space="preserve">
-    <value>US Ounces</value>
+    <value>Unze (US)</value>
   </data>
     <data name="UsCups" xml:space="preserve">
-    <value>US Cups</value>
+    <value>Tasse (US)</value>
   </data>
     <data name="UsLegalCups" xml:space="preserve">
-    <value>US Legal Cups</value>
+    <value>Rechtstasse (US)</value>
   </data>
     <data name="UsPints" xml:space="preserve">
-    <value>US Pints</value>
+    <value>Pinte (US)</value>
   </data>
     <data name="UsQuarts" xml:space="preserve">
-    <value>US Quarts</value>
+    <value>Quart (US)</value>
   </data>
     <data name="UsGallons" xml:space="preserve">
-    <value>US Gallons</value>
+    <value>Gallone (US)</value>
   </data>
     <data name="CubicInches" xml:space="preserve">
-    <value>Cubic Inches</value>
+    <value>Kubikzoll</value>
   </data>
     <data name="CubicFeet" xml:space="preserve">
-    <value>Cubic Feet</value>
+    <value>Kubikfuß</value>
   </data>
     <data name="CubicMeters" xml:space="preserve">
-    <value>Cubic Meters</value>
+    <value>Kubikmeter</value>
   </data>
     <data name="Milligrams" xml:space="preserve">
-    <value>Milligrams</value>
+    <value>Milligramm</value>
   </data>
     <data name="Grams" xml:space="preserve">
-    <value>Grams</value>
+    <value>Gramm</value>
   </data>
     <data name="Kilograms" xml:space="preserve">
-    <value>Kilograms</value>
+    <value>Kilogramm</value>
   </data>
     <data name="Tonnes" xml:space="preserve">
-    <value>Tonnes</value>
+    <value>Tonne</value>
   </data>
     <data name="Ounces" xml:space="preserve">
-    <value>Ounces</value>
+    <value>Unze</value>
   </data>
     <data name="Pounds" xml:space="preserve">
-    <value>Pounds</value>
+    <value>Pfund</value>
   </data>
     <data name="ShortTons" xml:space="preserve">
-    <value>Short Tons</value>
+    <value>Kurztonne</value>
   </data>
     <data name="Degrees" xml:space="preserve">
-    <value>Degrees</value>
+    <value>Grad</value>
   </data>
     <data name="Radians" xml:space="preserve">
-    <value>Radians</value>
+    <value>Radiant</value>
   </data>
     <data name="Gradians" xml:space="preserve">
-    <value>Gradians</value>
+    <value>Gradient</value>
   </data>
     <data name="Arcminutes" xml:space="preserve">
-    <value>Arcminutes</value>
+    <value>Bogenminute</value>
   </data>
     <data name="Arcseconds" xml:space="preserve">
-    <value>Arcseconds</value>
+    <value>Bogensekunde</value>
   </data>
 </root>
