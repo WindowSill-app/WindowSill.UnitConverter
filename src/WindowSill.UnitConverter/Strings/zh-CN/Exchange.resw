@@ -118,34 +118,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Add.LabelProperty" xml:space="preserve">
-    <value>Add</value>
+    <value>添加</value>
   </data>
   <data name="AddFavoriteTitle" xml:space="preserve">
-    <value>Add a favorite currency</value>
+    <value>添加收藏货币</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="Delete.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Delete</value>
+    <value>删除</value>
   </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Currency Converter</value>
+    <value>货币转换器</value>
   </data>
   <data name="FavoriteInto.TextProperty" xml:space="preserve">
-    <value>Favorites currencies</value>
+    <value>收藏的货币</value>
   </data>
   <data name="Loading.TextProperty" xml:space="preserve">
-    <value>Loading exchange rates...</value>
+    <value>正在加载汇率...</value>
   </data>
   <data name="MoveDown.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Move down</value>
+    <value>向下移动</value>
   </data>
   <data name="MoveUp.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Move up</value>
+    <value>向上移动</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>确定</value>
   </data>
   <data name="Search.PlaceholderTextProperty" xml:space="preserve">
     <value>搜索货币……</value>
