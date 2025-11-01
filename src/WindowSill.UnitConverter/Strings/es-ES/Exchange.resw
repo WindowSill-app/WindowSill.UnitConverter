@@ -136,7 +136,7 @@
     <value>Monedas favoritas</value>
   </data>
   <data name="Loading.TextProperty" xml:space="preserve">
-    <value>Cargando tasas de cambio...</value>
+    <value>Cargando tipos de cambio...</value>
   </data>
   <data name="MoveDown.ToolTipService.ToolTipProperty" xml:space="preserve">
     <value>Bajar</value>
