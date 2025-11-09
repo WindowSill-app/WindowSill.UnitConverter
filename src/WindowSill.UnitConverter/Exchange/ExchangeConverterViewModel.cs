@@ -47,7 +47,15 @@ internal sealed partial class ExchangeConverterViewModel : ViewModelBase
                     string[] favoriteIsoCodes = _settingsProvider.GetSetting(ExchangeSettings.FavoriteIsoCurrencyCodes);
                     if (favoriteIsoCodes?.Length > 0)
                     {
-                        CurrencyValue? favoriteCurrency = _exchangeRates.FirstOrDefault(c => string.Equals(c.IsoCurrency, favoriteIsoCodes[0], StringComparison.OrdinalIgnoreCase));
+                        string favoriteIsoCode = favoriteIsoCodes[0];
+                        if (string.Equals(favoriteIsoCode, currency.IsoCurrency, StringComparison.OrdinalIgnoreCase)
+                            && favoriteIsoCodes.Length >= 2)
+                        {
+                            // The first favorite currency is the same as the source currency, use the second one so we show a different currency (and therefore a conversion).
+                            favoriteIsoCode = favoriteIsoCodes[1];
+                        }
+
+                        CurrencyValue? favoriteCurrency = _exchangeRates.FirstOrDefault(c => string.Equals(c.IsoCurrency, favoriteIsoCode, StringComparison.OrdinalIgnoreCase));
                         if (favoriteCurrency is not null)
                         {
                             sillPopupItem.Content = favoriteCurrency.FormattedValue;

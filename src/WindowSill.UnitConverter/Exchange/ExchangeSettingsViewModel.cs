@@ -1,6 +1,5 @@
 ﻿using System.Collections.ObjectModel;
 using CommunityToolkit.Mvvm.ComponentModel;
-using CommunityToolkit.Mvvm.Input;
 using WindowSill.API;
 
 namespace WindowSill.UnitConverter.Exchange;
@@ -22,37 +21,12 @@ internal sealed partial class ExchangeSettingsViewModel : ObservableObject
     [ObservableProperty]
     internal partial bool IsLoading { get; set; }
 
-    internal void MoveCurrencyUp(CurrencyValue currencyValue)
-    {
-        int currentIndex = FavoriteIsoCurrencyCodes.IndexOf(currencyValue);
-        if (currentIndex > 0)
-        {
-            FavoriteIsoCurrencyCodes.RemoveAt(currentIndex);
-            FavoriteIsoCurrencyCodes.Insert(currentIndex - 1, currencyValue);
-        }
-
-        SaveSettings();
-    }
-
-    internal void MoveCurrencyDown(CurrencyValue currencyValue)
-    {
-        int currentIndex = FavoriteIsoCurrencyCodes.IndexOf(currencyValue);
-        if (currentIndex >= 0 && currentIndex < FavoriteIsoCurrencyCodes.Count - 1)
-        {
-            FavoriteIsoCurrencyCodes.RemoveAt(currentIndex);
-            FavoriteIsoCurrencyCodes.Insert(currentIndex + 1, currencyValue);
-        }
-
-        SaveSettings();
-    }
-
     internal void DeleteCurrency(CurrencyValue currencyValue)
     {
         FavoriteIsoCurrencyCodes.Remove(currencyValue);
-        SaveSettings();
     }
 
-    internal void SaveSettings()
+    private void SaveSettings()
     {
         string[] newOrdering = FavoriteIsoCurrencyCodes.Select(s => s.IsoCurrency).ToArray();
         _settingsProvider.SetSetting(ExchangeSettings.FavoriteIsoCurrencyCodes, newOrdering);
@@ -80,11 +54,18 @@ internal sealed partial class ExchangeSettingsViewModel : ObservableObject
                     FavoriteIsoCurrencyCodes.Add(currency);
                 }
 
+                FavoriteIsoCurrencyCodes.CollectionChanged += FavoriteIsoCurrencyCodes_CollectionChanged;
+
                 if ((await ExchangeRateHelper.GetCurrencyNameMapAsync()) is not null)
                 {
                     IsLoading = false;
                 }
             });
         });
+    }
+
+    private void FavoriteIsoCurrencyCodes_CollectionChanged(object? sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
+    {
+        SaveSettings();
     }
 }

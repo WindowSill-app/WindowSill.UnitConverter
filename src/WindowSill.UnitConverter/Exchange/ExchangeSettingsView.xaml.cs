@@ -16,20 +16,22 @@ public sealed partial class ExchangeSettingsView : UserControl
 
     internal ExchangeSettingsViewModel ViewModel { get; }
 
-    private void MoveUpButton_Click(object sender, RoutedEventArgs e)
+    private void Border_PointerEntered(object sender, PointerRoutedEventArgs e)
     {
-        if (sender is Button button && button.DataContext is CurrencyValue currencyValue)
-        {
-            ViewModel.MoveCurrencyUp(currencyValue);
-        }
+        var element = (Border)sender;
+        element.Background = Application.Current.Resources["ControlFillColorSecondaryBrush"] as Brush;
     }
 
-    private void MoveDownButton_Click(object sender, RoutedEventArgs e)
+    private void Border_PointerExited(object sender, PointerRoutedEventArgs e)
     {
-        if (sender is Button button && button.DataContext is CurrencyValue currencyValue)
-        {
-            ViewModel.MoveCurrencyDown(currencyValue);
-        }
+        var element = (Border)sender;
+        element.Background = Application.Current.Resources["CardBackgroundFillColorDefaultBrush"] as Brush;
+    }
+
+    private void Border_PointerPressed(object sender, PointerRoutedEventArgs e)
+    {
+        var element = (Border)sender;
+        element.Background = Application.Current.Resources["ControlFillColorTertiaryBrush"] as Brush;
     }
 
     private void DeleteButton_Click(object sender, RoutedEventArgs e)
@@ -65,7 +67,6 @@ public sealed partial class ExchangeSettingsView : UserControl
         if (dialog.Tag is CurrencyValue selectedCurrency)
         {
             ViewModel.FavoriteIsoCurrencyCodes.Add(selectedCurrency);
-            ViewModel.SaveSettings();
         }
     }
 }

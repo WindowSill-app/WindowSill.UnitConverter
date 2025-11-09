@@ -7,7 +7,7 @@
     <Platforms>x64</Platforms>
 
     <PackageId>WindowSill.UnitConverter</PackageId>
-    <Version>0.1.1</Version>
+    <Version>0.2.0</Version>
     <Authors>Etienne Baudoux</Authors>
     <Title>Unit &amp; Currency Converter</Title>
     <Description>Instantly convert units and currencies as you select text in any app — including temperature, length, data size, area, speed, volume, mass, angle, and cryptocurrencies with daily rate updates.</Description>
@@ -15,10 +15,6 @@
     <PackageProjectUrl>https://getwindowsill.app</PackageProjectUrl>
     <RepositoryUrl>https://github.com/WindowSill-app/WindowSill.UnitConverter</RepositoryUrl>
   </PropertyGroup>
-  <ItemGroup>
-    <None Remove="Exchange\ExchangeAddFavoriteCurrencyContentDialog.xaml" />
-    <None Remove="Exchange\ExchangeSettingsView.xaml" />
-  </ItemGroup>
   <ItemGroup>
     <None Include="LICENSE.md" Pack="true" PackagePath="\" />
     <None Include="CHANGELOGS.md" Pack="true" PackagePath="\" />
@@ -31,15 +27,5 @@
     <PackageReference Include="Microsoft.Recognizers.Text.NumberWithUnit" Version="1.8.13" />
     <PackageReference Include="UnitsNet" Version="5.75.0" />
     <PackageReference Include="WindowSill.API" Version="0.7.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <Page Update="Exchange\ExchangeAddFavoriteCurrencyContentDialog.xaml">
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-  </ItemGroup>
-  <ItemGroup>
-    <Page Update="Exchange\ExchangeSettingsView.xaml">
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
 </Project>
