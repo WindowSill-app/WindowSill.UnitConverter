@@ -1,3 +1,6 @@
+# 0.2.1.0
+- Improved Spanish translation.
+
 # 0.2.0.0
 - Enhanced the experience when managing favorite currency order.
 - Smarter currency conversion: if the text already shows your favorite currency, the app now automatically picks your second favorite to show you a useful conversion, rather than converting the currency to itself.
