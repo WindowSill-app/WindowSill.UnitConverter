@@ -1,3 +1,7 @@
+# 0.2.2.0
+- Fixed an issue where some currencies with no ISO code were displayed.
+- Updated dependencies.
+
 # 0.2.1.0
 - Improved Spanish translation.
 

@@ -74,7 +74,8 @@ internal static class ExchangeRateHelper
             await LoadCurrencyNameMapAsync();
         }
 
-        if (currencyNameMap is not null && currencyNameMap.TryGetValue(isoCurrency.ToLowerInvariant(), out string? name))
+        if (currencyNameMap is not null && currencyNameMap.TryGetValue(isoCurrency.ToLowerInvariant(), out string? name)
+            && !string.IsNullOrWhiteSpace(name))
         {
             return name;
         }

@@ -42,8 +42,11 @@ internal sealed partial class ExchangeSettingsViewModel : ObservableObject
             for (int i = 0; i < favoriteCurrencyCodes.Length; i++)
             {
                 string isoCode = favoriteCurrencyCodes[i];
-                string? currencyName = await ExchangeRateHelper.GetCurrencyNameAsync(isoCode);
-                loadedCurrencies.Add(new CurrencyValue(1.0, currencyName ?? isoCode, isoCode.ToUpper()));
+                if (!string.IsNullOrWhiteSpace(isoCode))
+                {
+                    string? currencyName = await ExchangeRateHelper.GetCurrencyNameAsync(isoCode);
+                    loadedCurrencies.Add(new CurrencyValue(1.0, currencyName ?? isoCode, isoCode.ToUpper()));
+                }
             }
 
             await ThreadHelper.RunOnUIThreadAsync(async () =>

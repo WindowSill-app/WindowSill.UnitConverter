@@ -192,7 +192,8 @@ internal sealed partial class ExchangeConverterViewModel : ViewModelBase
 
     private async Task<IReadOnlyList<CurrencyValue>?> GetExchangeRatesAsync(CurrencyValue currency)
     {
-        string isoCurrency = (currency.IsoCurrency ?? currency.Currency).ToLowerInvariant();
+        string isoCurrency = currency.IsoCurrency.ToLowerInvariant();
+        Guard.IsNotNullOrWhiteSpace(isoCurrency);
 
         // Check if we need to refresh the cache
         bool needsRefresh
@@ -222,7 +223,7 @@ internal sealed partial class ExchangeConverterViewModel : ViewModelBase
         {
             double convertedValue = currency.Value * rate;
             string currencyName = await ExchangeRateHelper.GetCurrencyNameAsync(targetCurrency) ?? targetCurrency;
-            if (!string.IsNullOrWhiteSpace(currencyName))
+            if (!string.IsNullOrWhiteSpace(currencyName) && !string.IsNullOrWhiteSpace(targetCurrency))
             {
                 results.Add(new CurrencyValue(convertedValue, currencyName, targetCurrency));
             }

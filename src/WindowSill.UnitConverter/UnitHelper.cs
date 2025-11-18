@@ -193,7 +193,8 @@ internal static class UnitHelper
                         && value is string valueString
                         && double.TryParse(valueString, out double valueDouble)
                         && model.Resolution.TryGetValue(Unit, out object? unit)
-                        && unit is string unitString)
+                        && unit is string unitString
+                        && !string.IsNullOrWhiteSpace(unitString))
                     {
                         string isoCurrency = string.Empty;
                         if (model.Resolution.TryGetValue(IsoCurrency, out object? isoCurrencyObject))
@@ -209,8 +210,11 @@ internal static class UnitHelper
                             isoCurrency = "GBP";
                         }
 
-                        currency = new CurrencyValue(double.Parse(valueString), unitString, isoCurrency);
-                        return true;
+                        if (!string.IsNullOrWhiteSpace(isoCurrency))
+                        {
+                            currency = new CurrencyValue(double.Parse(valueString), unitString, isoCurrency);
+                            return true;
+                        }
                     }
                 }
             }
