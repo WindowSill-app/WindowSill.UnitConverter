@@ -7,7 +7,7 @@
     <Platforms>x64</Platforms>
 
     <PackageId>WindowSill.UnitConverter</PackageId>
-    <Version>0.2.3</Version>
+    <Version>0.2.4</Version>
     <Authors>Etienne Baudoux</Authors>
     <Title>Unit &amp; Currency Converter</Title>
     <Description>Instantly convert units and currencies as you select text in any app — including temperature, length, data size, area, speed, volume, mass, angle, and cryptocurrencies with daily rate updates.</Description>
