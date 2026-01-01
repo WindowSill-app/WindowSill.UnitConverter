@@ -127,7 +127,7 @@
     <value>Cancelar</value>
   </data>
   <data name="Delete.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Excluir</value>
+    <value>Deletar</value>
   </data>
   <data name="DisplayName" xml:space="preserve">
     <value>Conversor de moedas</value>
